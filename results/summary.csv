@@ -1,0 +1,8 @@
+"measure","value"
+"Stations with positive estimated trends","130 of 131"
+"Unweighted mean station trend (C/year)","0.0483"
+"Median station trend (C/year)","0.0492"
+"Minimum station trend (C/year)","-0.0001"
+"Maximum station trend (C/year)","0.0981"
+"Classical 95% intervals entirely above zero","122"
+"HAC30 95% intervals entirely above zero","95"

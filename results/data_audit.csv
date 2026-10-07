@@ -1,0 +1,12 @@
+"metric","value"
+"raw_rows",959126
+"raw_stations",132
+"temperature_sentinels",10433
+"other_missing_response",0
+"outside_scope_rows",7584
+"outside_scope_stations",1
+"in_scope_rows",951542
+"in_scope_missing_response",10412
+"modeled_rows",941130
+"modeled_stations",131
+"duplicate_station_dates",0
